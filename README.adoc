@@ -1,0 +1,36 @@
+[[agd2-python]]
+= AGD2 Python
+:icons:
+:toc: macro
+:toc-title:
+:toclevels: 1
+
+toc::[]
+
+[[about]]
+== About repository
+
+[[lekce1]]
+== Lekce 1 - instalace, proměnné a datové typy
+
+https://github.com/agajdosi/agd2python/blob/master/promenne.py[Kód k proměnným a datovým typům].
+
+[[lekce2]]
+== Lekce 2 - podmínky a cykly
+https://github.com/agajdosi/agd2python/blob/master/podminky.py[Kód k podmínkám].
+
+Kod k funkcim - Work In Progress.
+
+[[lekce3]]
+== Lekce 3 - funkce
+
+https://github.com/agajdosi/agd2python/blob/master/funkce.py[Kód k funkcim].
+
+[[lekce4]]
+== Lekce - 
+
+[[lekce5]]
+== Lekce - 
+
+[[lekce6]]
+== Lekce - 

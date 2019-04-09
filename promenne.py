@@ -1,5 +1,7 @@
-### INTRO ###
-# Promenne se pouzivaji k ukladani docasnych dat v prubehu programu
+### PROMENNE ###
+# Promenne se pouzivaji k ukladani docasnych dat v prubehu programu.
+# Datovy typ promenne urcuje, jakou formu dat do podminky ukladame - retezce, cisla nebo logicke hodnoty.
+# Python je dynamicky typovany - datove typy tak nemusime v kodu moc resit, je vsak dobre vedet, s jakym typem pracujeme.
 
 # promennou vytvorime tak, ze zapiseme jeji jmeno a rovnitkem ji priradime hodnotu
 mujVek = 25
