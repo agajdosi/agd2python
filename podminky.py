@@ -2,9 +2,6 @@
 # Podminky nam umoznuji vetvit beh programu - reagovat na ruzne situace ruznymi vysledky.
 
 ### IF ###
-
-
-
 #podminku IF zaciname klicovym slovem "if"
 #po nem nasleduje samotna podminka: jakykoliv vyraz, ktery nabyva hodnot True nebo False
 #napriklad vek>17

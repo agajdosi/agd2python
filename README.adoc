@@ -19,7 +19,7 @@ https://github.com/agajdosi/agd2python/blob/master/promenne.py[Kód k proměnný
 == Lekce 2 - podmínky a cykly
 https://github.com/agajdosi/agd2python/blob/master/podminky.py[Kód k podmínkám].
 
-Kod k funkcim - Work In Progress.
+https://github.com/agajdosi/agd2python/blob/master/cykly.py[Kód k cyklům].
 
 [[lekce3]]
 == Lekce 3 - funkce
