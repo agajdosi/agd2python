@@ -27,7 +27,12 @@ https://github.com/agajdosi/agd2python/blob/master/cykly.py[Kód k cyklům].
 https://github.com/agajdosi/agd2python/blob/master/funkce.py[Kód k funkcim].
 
 [[lekce4]]
-== Lekce - 
+== Lekce 4 - Skupinový projekt: analýza textu - výskyt slov
+
+1. vytvořili jsme textový soubor text.txt, do kterého jsme uložili delší anglický text
+2. vytvořili jsme Python soubor file.py, v kterém jsme psali kód, který počítá výskyt slov v textu
+
+Výsledný kód dostupný zde: https://github.com/agajdosi/agd2python/blob/master/file.py[file.py].
 
 [[lekce5]]
 == Lekce - 
